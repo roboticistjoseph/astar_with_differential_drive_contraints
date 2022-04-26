@@ -30,7 +30,7 @@ Instructions to run:
 -> Open an IDE
 -> Navigate to the folder where the .py file exists
 -> Upon running the code, the user will be prompted to enter coordinates, please have one space between the values.
--> To visualize the exploration and path as a video, please uncomment the plt.pause() on line 305
+-> To visualize the exploration and path as a video, please uncomment the plt.pause() on line 316
 -> The visuzaliztion using matplotlib is a bit slower so, to view the result, just run it.
 -> It will take some time to generate the plot. Thank you for being Patient.
 
@@ -43,5 +43,3 @@ Output:
 
 -----------------------------------------------------------
 
-
- 
